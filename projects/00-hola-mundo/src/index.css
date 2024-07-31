@@ -1,0 +1,10 @@
+/* Estilo general para toda la página */
+
+body {
+    margin: 0;
+    background-color: #222;
+    font-family: system-ui;
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+}
